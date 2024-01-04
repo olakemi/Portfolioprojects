@@ -3,7 +3,7 @@ library(DataExplorer)
 
 #To upload csv file
 
-#> setwd("C:/Users/bukzy/OneDrive/Desktop")   ## click the session option on rstudio,set the working directory to the set file e.g desktop
+#> setwd("C:/Users/XXXX/OneDrive/Desktop")   ## click the session option on rstudio,set the working directory to the set file e.g desktop
 #then, upload the file by runnung the example below
 
 breastcan <- read.csv("breastcancer.csv")
